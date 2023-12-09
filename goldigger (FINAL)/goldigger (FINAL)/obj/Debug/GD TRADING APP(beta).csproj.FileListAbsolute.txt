@@ -1,0 +1,608 @@
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\Google.Protobuf.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\MySql.Data.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\NuGet.Frameworks.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Buffers.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Memory.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\ZstdSharp.dll
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\Google.Protobuf.pdb
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\Google.Protobuf.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\MySql.Data.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Buffers.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Memory.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\mission\Desktop\GD trading app\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\NuGet.Frameworks.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\GD TRADING APP(beta)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\USER\Downloads\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\USER\Downloads\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\undes\Desktop\drive-download-20231118T123111Z-001\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\golddigger\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddigger\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddigger\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\golddigger\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\golddigger\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\undes\Desktop\golddigger\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\golddigger\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddigger\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\golddigger(updated)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddigger(updated)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\golddiggerreal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddiggerreal\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddiggerreal(new)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\nikko\OneDrive\Desktop\csharp\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\nikko\OneDrive\Desktop\csharp\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\nikko\OneDrive\Desktop\csharp\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Google.Protobuf.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\MySql.Data.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Buffers.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Memory.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\ZstdSharp.dll
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Google.Protobuf.pdb
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Google.Protobuf.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\MySql.Data.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Buffers.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Memory.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.SettingsFomr.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DeleteAccountForm.resources
+C:\Users\nikko\Downloads\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Lading.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DeleteAccountForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Lading.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.SettingsFomr.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\golddigger (FINAL)-20231130T232355Z-001\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Google.Protobuf.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\MySql.Data.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Buffers.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Memory.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\ZstdSharp.dll
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Google.Protobuf.pdb
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Google.Protobuf.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\MySql.Data.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Buffers.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Memory.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DeleteAccountForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Lading.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.SettingsFomr.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\undes\Desktop\ETO NA TOOOOOOOOO\golddigger (FINAL)\obj\Debug\GD TRADING APP(beta).pdb
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe.config
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\GD TRADING APP(beta).exe
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\GD TRADING APP(beta).pdb
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Google.Protobuf.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\MySql.Data.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Buffers.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.IO.Pipelines.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Memory.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\ZstdSharp.dll
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Google.Protobuf.pdb
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Google.Protobuf.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\MySql.Data.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Buffers.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.IO.Pipelines.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Memory.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.AssemblyReference.cache
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DashboardForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DeleteAccountForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.DepositeForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.HompageForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Lading.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.LoginForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.MarketForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.Properties.Resources.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.RegistrationForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.SettingsFomr.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD_TRADING_APP_beta_.TradeForm.resources
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.GenerateResource.cache
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CoreCompileInputs.cache
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD TRADING APP(beta).csproj.CopyComplete
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD TRADING APP(beta).exe
+C:\Users\nikko\OneDrive\Desktop\goldigger (FINAL)\goldigger (FINAL)\obj\Debug\GD TRADING APP(beta).pdb
